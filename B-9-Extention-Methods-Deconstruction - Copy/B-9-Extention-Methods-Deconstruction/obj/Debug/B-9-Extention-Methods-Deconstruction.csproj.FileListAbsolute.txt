@@ -1,0 +1,7 @@
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (11)\03-12-2018-master\B-9-Extention-Methods-Deconstruction - Copy\B-9-Extention-Methods-Deconstruction\bin\Debug\Base-Lesson-9.exe.config
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (11)\03-12-2018-master\B-9-Extention-Methods-Deconstruction - Copy\B-9-Extention-Methods-Deconstruction\bin\Debug\Base-Lesson-9.exe
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (11)\03-12-2018-master\B-9-Extention-Methods-Deconstruction - Copy\B-9-Extention-Methods-Deconstruction\bin\Debug\Base-Lesson-9.pdb
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (11)\03-12-2018-master\B-9-Extention-Methods-Deconstruction - Copy\B-9-Extention-Methods-Deconstruction\obj\Debug\B-9-Extention-Methods-Deconstruction.csprojAssemblyReference.cache
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (11)\03-12-2018-master\B-9-Extention-Methods-Deconstruction - Copy\B-9-Extention-Methods-Deconstruction\obj\Debug\B-9-Extention-Methods-Deconstruction.csproj.CoreCompileInputs.cache
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (11)\03-12-2018-master\B-9-Extention-Methods-Deconstruction - Copy\B-9-Extention-Methods-Deconstruction\obj\Debug\Base-Lesson-9.exe
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (11)\03-12-2018-master\B-9-Extention-Methods-Deconstruction - Copy\B-9-Extention-Methods-Deconstruction\obj\Debug\Base-Lesson-9.pdb
